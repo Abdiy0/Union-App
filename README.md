@@ -15,7 +15,7 @@ This App was Designed to allow users to present their notes ideas, through a fun
 
 ## Installation 
 
-To install: System Requirements: Java Runtime Environment 1.8 
+To install System Requirements: Java Runtime Environment 1.8 
 
 [Download Here](https://drive.google.com/file/d/15skPcEn0BOqWajIBU4JaSw2kYHif6OLy/view?usp=sharing)
 
